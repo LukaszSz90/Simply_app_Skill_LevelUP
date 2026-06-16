@@ -1,4 +1,4 @@
-package org.example;
+package org.example.MenuOprion;
 
 public enum MainMenuOption {
     VIEW_SKILL_STATISTICS(1, "View skill statistics"),
@@ -6,8 +6,8 @@ public enum MainMenuOption {
     EDIT_SKILL(3, "Edit exising skill"),
     CLOSE_APPLICATION(0, "Close application");
 
-    private int number;
-    private String description;
+    private final int number;
+    private final String description;
 
     MainMenuOption(int number, String description) {
         this.number = number;
