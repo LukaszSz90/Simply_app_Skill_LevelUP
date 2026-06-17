@@ -8,6 +8,7 @@ public class Main {
     }
 
     private void app_start() {
-        MainMenu.displayMenu();
+        MainMenu app = new MainMenu();
+        app.displayMenu();
     }
 }

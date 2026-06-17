@@ -22,7 +22,7 @@ public class MenuPrinter {
                     if (option.getNumber() != 0) {
                         startApplicationText.append(option.getNumber()).append(") ").append(option.getDescription()).append("\n");
                     } else {
-                        startApplicationText.append("0)").append(option.getDescription());
+                        startApplicationText.append("0) ").append(option.getDescription());
                     }
                 });
 
