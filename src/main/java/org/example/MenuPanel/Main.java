@@ -1,6 +1,4 @@
-package org.example;
-
-import javax.swing.*;
+package org.example.MenuPanel;
 
 public class Main {
     void main() {

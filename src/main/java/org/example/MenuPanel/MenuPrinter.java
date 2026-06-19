@@ -1,7 +1,7 @@
-package org.example;
+package org.example.MenuPanel;
 
-import org.example.MenuOprion.LoginMenu;
-import org.example.MenuOprion.MainMenuOption;
+import org.example.MenuPanel.MenuOption.LoginMenu;
+import org.example.MenuPanel.MenuOption.MainMenuOption;
 
 import java.util.Arrays;
 import java.util.Comparator;

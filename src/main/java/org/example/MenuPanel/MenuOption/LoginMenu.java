@@ -1,4 +1,4 @@
-package org.example.MenuOprion;
+package org.example.MenuPanel.MenuOption;
 
 public enum LoginMenu {
     LOGIN(1, "Sign in"),

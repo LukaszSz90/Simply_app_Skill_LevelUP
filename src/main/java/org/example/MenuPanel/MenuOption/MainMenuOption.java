@@ -1,4 +1,4 @@
-package org.example.MenuOprion;
+package org.example.MenuPanel.MenuOption;
 
 public enum MainMenuOption {
     VIEW_SKILL_STATISTICS(1, "View skill statistics"),
